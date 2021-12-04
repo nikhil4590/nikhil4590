@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi I'm Nikhil Yadav 👋
+## I am a 3rd Year UnderGrad with some experince as a Web Developer
 
-<!--
-**nikhil4590/nikhil4590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Web Development and brushing up my skills everyday.
+- 🌱 I’m currently learning DSA and diving deep into Java.
+- 💬 Ask me about Web Dev , Java , DSA , SAP , DevOps
+- 📫 How to reach me: nikhilyadav4590@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: 
+
+## 📊 <strong> My Github Stats 🚀 </strong>
+
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhil4590l&color=green&color=green" alt="nikhil4590" /> 
+</p>
+ 
+ <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil4590&show_icons=true&theme=radical" alt="nikhil4590" />
+</p>
+<p>
+  <img width=48% src="https://github-readme-stats.vercel.app/api?username=nikhil4590&show_icons=true&layout&theme=radical" alt="nikhil4590" /> &nbsp &nbsp
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil4590&layout&theme=radical" />
+</p>
+ 
