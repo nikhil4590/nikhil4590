@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Web Development and brushing up my skills everyday.
 - 🌱 I’m currently learning DSA and diving deep into Java.
-- 💬 Ask me about Web Dev , Java , DSA , SAP , DevOps
+- 💬 Ask me about Web Dev , Java , DSA  , DevOps
 - 📫 How to reach me: nikhilyadav4590@gmail.com
 
 
