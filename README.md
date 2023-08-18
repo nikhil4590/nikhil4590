@@ -1,9 +1,5 @@
-# Hi I'm Nikhil Yadav 👋
-## I am a 3rd Year UnderGrad with some experince as a Web Developer
-
-- 🔭 I’m currently working on Web Development and brushing up my skills everyday.
-- 🌱 I’m currently learning DSA and diving deep into Java.
-- 💬 Ask me about Web Dev , Java , DSA  , DevOps
+# Hi I'm Nikhil Yadav 
+- 💬 Ask me about AWS , DevOps , C++
 - 📫 How to reach me: nikhilyadav4590@gmail.com
 
 
