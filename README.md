@@ -1,5 +1,5 @@
 # Hi I'm Nikhil Yadav 
-- 💬 Ask me about AWS , DevOps , C++
+- 💬 Ask me about AWS , DevOps ,Python
 - 📫 How to reach me: nikhilyadav4590@gmail.com
 
 
